@@ -1,2 +1,2 @@
-# pyton-tricks
+# python-tricks
 Python Tricks The Book
